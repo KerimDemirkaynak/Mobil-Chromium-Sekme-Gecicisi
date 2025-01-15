@@ -36,7 +36,7 @@ function createOverlay(newTabId) {
     overlay.style.transform = 'translateX(-50%)';
     overlay.style.width = '80%';
     overlay.style.maxWidth = '500px';
-    overlay.style.backgroundColor = '#016ADD';
+    overlay.style.backgroundColor = '#7542E5';
     overlay.style.color = 'white';
     overlay.style.padding = '12px 20px';
     overlay.style.display = 'flex';
