@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Tab Switcher"
+  },
+  "extDescription": {
+    "message": "Notifies you when a new tab is opened in the background and allows you to switch to it instantly."
+  },
+  "notificationText": {
+    "message": "New tab opened"
+  },
+  "switchToButtonText": {
+    "message": "SWITCH"
+  }
+}

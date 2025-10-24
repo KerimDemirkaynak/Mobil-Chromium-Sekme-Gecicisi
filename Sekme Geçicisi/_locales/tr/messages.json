@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Sekme Geçici"
+  },
+  "extDescription": {
+    "message": "Yeni bir sekme arka planda açıldığında sizi bilgilendirir ve anında o sekmeye geçmenizi sağlar."
+  },
+  "notificationText": {
+    "message": "Yeni sekme açıldı"
+  },
+  "switchToButtonText": {
+    "message": "GEÇ"
+  }
+}
