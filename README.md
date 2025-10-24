@@ -2,7 +2,7 @@
 
 İşte nasıl kullanacağınızla ilgili bir rehber:
 
-1. [Buradan](https://github.com/KerimDemirkaynak/Mobil-Chromium-Sekme-Gecicisi/releases/download/V1.0/Sekme.Gecicisi.zip) uzantıyı indirin.
+1. [Buradan](https://github.com/KerimDemirkaynak/Mobil-Chromium-Sekme-Gecicisi/releases/download/V2.0/Sekme.Gecicisi.zip) uzantıyı indirin.
 2. Tarayıcıyı açın ve **Uzantılar / Eklentiler** seçeneğine dokunun.
 3. **Geliştirici modunu** etkinleştirin.
 4. Sayfanın üstünden `+(.zip/.crx/.user.js'den)` seçeneğine tıklayın.
